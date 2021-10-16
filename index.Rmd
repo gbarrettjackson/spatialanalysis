@@ -3,7 +3,7 @@ title: "Spatial Analysis Portfolio"
 author: "Gabriel Barrett-Jackson"
 date: "10/18/2021"
 output: 
-  rmdformats::html_clean
+  rmdformats::robobook
 ---
 
 ```{r setup, include=FALSE}
@@ -39,7 +39,7 @@ These maps demonstrate the following skills:
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Georeferencing a raster image
 
-[![](thumbnails/assignment3.1.jpeg)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/trees.commctrs.pdf){target="_blank"}
+[![](thumbnails/assignment3.1.png)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/trees.commctrs.pdf){target="_blank"}
 
 [![](thumbnails/assignment3.jpeg)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/openspace.trees.pdf){target="_blank"}
 
