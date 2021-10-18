@@ -52,7 +52,7 @@ This interactive map shows the percent of population identifying as Black alone 
 
 * Displaying data on an interactive map
 
-[![](thumbnails/la_co_commute.png)](https://https://gbarrettjackson.github.io/spatialanalysis/fullsize/LA_County_Transit_Commute.html){target="_blank"}
+[![](thumbnails/la_co_commute.png)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/LA_County_Transit_Commute.html){target="_blank"}
 
 ## Accessibility
 This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
