@@ -55,7 +55,7 @@ This interactive map shows the percent of population identifying as Black alone 
 [![](thumbnails/la_co_commute.png)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/LA_County_Transit_Commute.html){target="_blank"}
 
 ## Accessibility
-This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
+These maps show accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying accessibility, based on travel time
@@ -68,7 +68,7 @@ This map shows accessibility based on a distance-decay function of the walking t
 [![](thumbnails/contour.accessibility.png)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/contour.accessibility.pdf){target="_blank"}
 
 ## Travel
-These maps show bus travel to the nearest farmers market, bus stops within a 500 meter walk, and farmers markets within a 500 meter walk. 
+These maps illustrate travel. The first highlights travel to the nearest farmers market, the second shows bus stops within a 500 meter walk, and the final map shows farmers markets within a 500 meter walk. 
 
 [![](thumbnails/bus.lamarket.png)](https://gbarrettjackson.github.io/spatialanalysis/fullsize/bus.lamarket.pdf){target="_blank"}
 
